@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 The purpose of this project is to make up a prediction model where we will be able to predict whether a recommendation is positive or negative. In this project, we will not focus on the Score, but only the positive/negative sentiment of the recommendation.<br /><br />
 To do so, we will work on Amazon's recommendation dataset, we will build a Term-doc incidence matrix using term frequency and inverse document frequency ponderation. When the data is ready, we will load it into predicitve algorithms, mainly naïve Bayesian and regression.
 
