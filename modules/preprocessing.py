@@ -62,3 +62,5 @@ class Preprocessing:
 
         return train_data_tf_idf, test_data_tf_idf, i_data_tf_idf
 
+    def pretest(self):
+        pass
